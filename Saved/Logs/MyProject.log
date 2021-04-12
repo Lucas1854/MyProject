@@ -987,3 +987,132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-18.04.24:850][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.12-18.04.24:856][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.04.12-18.04.49:260][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.04.12-18.14.08:179][452]LogActorFactory: Actor Factory created Plane
+[2021.04.12-18.14.09:908][659]LogActorFactory: Actor Factory created Plane
+[2021.04.12-18.14.16:319][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.04.12-18.14.17:137][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.04.12-18.14.17:637][580]Cmd: DELETE
+[2021.04.12-18.14.17:637][580]Cmd: ACTOR DELETE
+[2021.04.12-18.14.17:638][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.14.17:664][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.12-18.14.17:665][580]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.12-18.14.23:103][233]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-18.14.49:156][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.12-18.14.49:157][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-18.14.49:223][302]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto2B06464AF4A27583D4A93F3A651248A57.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto2.umap'
+[2021.04.12-18.14.49:224][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.092
+[2021.04.12-18.14.49:224][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
+[2021.04.12-18.17.38:577][595]Cmd: DELETE
+[2021.04.12-18.17.38:577][595]Cmd: ACTOR DELETE
+[2021.04.12-18.17.38:578][595]LogEditorActor: Deleted Actor: TriggerBox
+[2021.04.12-18.17.38:603][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.04.12-18.17.38:604][595]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.12-18.17.46:689][556]LogActorFactory: Actor Factory created Plane
+[2021.04.12-18.17.47:324][632]LogActorFactory: Actor Factory created Plane
+[2021.04.12-18.17.49:057][837]Cmd: DELETE
+[2021.04.12-18.17.49:057][837]Cmd: ACTOR DELETE
+[2021.04.12-18.17.49:058][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.17.49:084][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.12-18.17.49:084][837]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.12-18.17.54:625][445]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.12-18.17.54:649][445]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.12-18.17.54:673][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.12-18.17.57:403][445]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2021.04.12-18.18.03:476][171]Cmd: TRANSACTION UNDO
+[2021.04.12-18.18.03:476][171]LogEditorTransaction: Undo Excluir Atores
+[2021.04.12-18.18.04:527][250]Cmd: TRANSACTION UNDO
+[2021.04.12-18.18.04:527][250]LogEditorTransaction: Undo Criar Atores
+[2021.04.12-18.19.33:488][325]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.04.12-18.19.34:359][325]LogSlate: Took 0.013571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.12-18.19.41:271][143]LogSlate: Window 'Floor_400x400' being destroyed
+[2021.04.12-18.19.41:275][143]LogSlate: Window 'Floor_400x400' being destroyed
+[2021.04.12-18.19.41:279][143]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.19.41:280][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.19.42:752][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.04.12-18.19.44:553][526]Cmd: DELETE
+[2021.04.12-18.19.44:553][526]Cmd: ACTOR DELETE
+[2021.04.12-18.19.44:554][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.19.44:580][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.12-18.19.44:585][526]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.04.12-18.19.46:101][701]LogActorFactory: Actor Factory created Floor_400x400
+[2021.04.12-18.19.49:279][ 82]LogActorFactory: Actor Factory created Floor_400x400
+[2021.04.12-18.19.49:547][114]LogActorFactory: Actor Factory created Floor_400x400
+[2021.04.12-18.19.57:530][ 59]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.20.01:978][592]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.20.05:122][927]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.20.10:120][480]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.12-18.20.11:057][592]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.12-18.20.14:867][ 37]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2021.04.12-18.20.17:025][285]LogActorFactory: Actor Factory created Wall_Window_400x300
+[2021.04.12-18.20.25:088][189]LogActorFactory: Actor Factory created Wall_400x400
+[2021.04.12-18.20.30:023][757]LogActorFactory: Actor Factory created Wall_500x500
+[2021.04.12-18.20.32:934][ 94]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.20.35:451][392]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.20.36:066][465]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.04:671][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.04.12-18.21.05:505][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.04.12-18.21.05:613][994]Cmd: DELETE
+[2021.04.12-18.21.05:613][994]Cmd: ACTOR DELETE
+[2021.04.12-18.21.05:614][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.21.05:640][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.12-18.21.05:642][994]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.04.12-18.21.07:821][234]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.08:380][301]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.08:815][353]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.11:433][667]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.12:634][811]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.21.25:364][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.04.12-18.21.25:456][340]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.12-18.22.17:252][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.04.12-18.22.18:221][654]Cmd: DELETE
+[2021.04.12-18.22.18:221][654]Cmd: ACTOR DELETE
+[2021.04.12-18.22.18:222][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.22.18:246][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.12-18.22.18:249][654]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.04.12-18.23.16:004][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.12-18.23.19:766][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.04.12-18.23.41:968][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.04.12-18.24.21:343][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2021.04.12-18.24.21:437][404]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.12-18.24.32:822][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.04.12-18.24.33:909][893]Cmd: DELETE
+[2021.04.12-18.24.33:909][893]Cmd: ACTOR DELETE
+[2021.04.12-18.24.33:910][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.24.33:935][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.12-18.24.33:937][893]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.04.12-18.24.35:008][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.04.12-18.24.35:575][ 87]Cmd: DELETE
+[2021.04.12-18.24.35:575][ 87]Cmd: ACTOR DELETE
+[2021.04.12-18.24.35:576][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.24.35:599][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.12-18.24.35:600][ 87]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.04.12-18.24.38:728][419]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.24.39:140][468]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.25.56:090][652]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.25.56:826][740]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.25.59:264][ 30]Cmd: DELETE
+[2021.04.12-18.25.59:264][ 30]Cmd: ACTOR DELETE
+[2021.04.12-18.25.59:265][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.25.59:289][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.12-18.25.59:292][ 30]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.12-18.26.00:429][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2021.04.12-18.26.01:629][308]Cmd: EDIT COPY
+[2021.04.12-18.26.02:306][388]Cmd: EDIT PASTE
+[2021.04.12-18.26.04:312][625]Cmd: EDIT PASTE
+[2021.04.12-18.26.30:209][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.12-18.26.30:210][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-18.26.30:220][677]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto35025049042BE3AFE6A63DAABD8545BF1.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto3.umap'
+[2021.04.12-18.26.30:222][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.037
+[2021.04.12-18.26.30:222][677]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.037
+[2021.04.12-18.26.50:541][ 89]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.26.51:104][156]LogActorFactory: Actor Factory created Wall_400x300
+[2021.04.12-18.28.08:272][389]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2021.04.12-18.28.15:991][759]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2021.04.12-18.30.40:008][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-18.30.40:031][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.04.12-18.30.40:042][ 71]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova6A55D9CD448D9C1E0FEE3882DF52A4C1.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-18.30.40:049][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-18.30.40:086][ 71]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltData430C462340584BBEA32ED0BC4069EA27.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-18.30.40:097][ 71]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-18.30.40:097][ 71]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-18.30.40:097][ 71]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
