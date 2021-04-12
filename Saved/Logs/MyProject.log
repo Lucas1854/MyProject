@@ -1116,3 +1116,272 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-18.30.40:097][ 71]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.12-18.30.40:097][ 71]LogContentValidation: Display: Validating World /Game/Prova.Prova
 [2021.04.12-18.30.40:097][ 71]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-18.41.16:129][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2021.04.12-18.41.40:444][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.41.44:363][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2021.04.12-18.42.14:211][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.12-18.42.14:214][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-18.42.14:224][967]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto4096EB34F480AC75811155BBB329D278C.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto4.umap'
+[2021.04.12-18.42.14:225][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.039
+[2021.04.12-18.42.14:225][967]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2021.04.12-18.42.31:080][974]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2021.04.12-18.42.37:585][277]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2021.04.12-18.47.44:962][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.47.46:588][647]Cmd: EDIT COPY
+[2021.04.12-18.47.49:149][954]Cmd: EDIT COPY
+[2021.04.12-18.47.49:154][954]Cmd: EDIT PASTE
+[2021.04.12-18.47.50:330][ 93]Cmd: EDIT PASTE
+[2021.04.12-18.47.51:965][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2021.04.12-18.48.04:025][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2021.04.12-18.48.14:109][861]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-18.49.20:173][357]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2021.04.12-18.49.22:429][596]LogSlate: Window 'Wall_400x200' being destroyed
+[2021.04.12-18.49.22:433][596]LogSlate: Window 'Wall_400x200' being destroyed
+[2021.04.12-18.49.22:437][596]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-18.49.22:437][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-18.49.23:829][741]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.49.25:158][900]LogActorFactory: Actor Factory created Wall_400x200
+[2021.04.12-18.50.22:545][516]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.12-18.50.22:814][548]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.04.12-18.52.21:377][ 51]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Pebble_Mat, compiling. 
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.12-18.52.21:441][ 51]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.12-18.52.30:830][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2021.04.12-18.52.33:914][454]LogMaterial: Display: Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.04.12-18.52.33:918][454]LogMaterial: Display: Missing cached shader map for material T_CobbleStone_Pebble_Mat, compiling. 
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.04.12-18.52.33:954][455]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.12-18.53.04:751][987]LogMaterial: Display: Missing cached shader map for material T_Bush_Mat, compiling. 
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.12-18.53.04:769][987]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.12-18.53.04:769][987]LogMaterial: Display: Material /Game/StarterContent/Textures/T_Bush_Mat.T_Bush_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.04.12-18.53.04:805][987]LogMaterial: Display: Missing cached shader map for material T_Bush_Mat, compiling. 
+[2021.04.12-18.53.05:276][  9]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.04.12-18.53.05:394][ 19]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.04.12-18.53.05:972][ 74]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.04.12-18.53.06:037][ 80]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.04.12-18.53.06:140][ 90]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.04.12-18.53.06:207][ 96]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.04.12-18.53.06:379][113]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.12-18.53.06:505][124]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.04.12-18.53.07:394][206]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.12-18.53.07:425][209]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.12-18.53.07:532][219]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.04.12-18.53.07:544][220]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.12-18.53.07:617][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.12-18.53.16:023][194]LogMaterial: Display: Missing cached shader map for material T_ground_Moss_Mat, compiling. 
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.12-18.53.16:040][194]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.12-18.53.16:040][194]LogMaterial: Display: Material /Game/StarterContent/Textures/T_ground_Moss_Mat.T_ground_Moss_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.04.12-18.53.16:044][194]LogMaterial: Display: Missing cached shader map for material T_ground_Moss_Mat, compiling. 
+[2021.04.12-18.53.16:243][198]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.04.12-18.53.16:491][202]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.04.12-18.53.17:055][251]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.04.12-18.53.17:183][262]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.04.12-18.53.17:183][262]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.04.12-18.53.17:216][265]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.04.12-18.53.17:448][285]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.04.12-18.53.17:543][293]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.04.12-18.53.18:414][365]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.04.12-18.53.18:457][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.04.12-18.53.18:467][370]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.12-18.53.18:536][377]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.04.12-18.53.18:556][379]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.04.12-18.53.38:323][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2021.04.12-18.53.44:093][358]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-18.53.44:720][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-18.53.44:773][435]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.04.12-18.53.50:225][ 53]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/StarterContent/Textures/T_Bush_N.T_Bush_N
+[2021.04.12-18.53.50:267][ 53]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.04.12-18.53.53:147][377]LogSlate: Window 'T_Bush_N' being destroyed
+[2021.04.12-18.53.53:151][377]LogSlate: Window 'T_Bush_N' being destroyed
+[2021.04.12-18.54.05:142][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2021.04.12-18.54.11:501][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2021.04.12-18.54.21:936][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2021.04.12-18.54.29:238][611]Cmd: DELETE
+[2021.04.12-18.54.29:238][611]Cmd: ACTOR DELETE
+[2021.04.12-18.54.29:239][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.54.29:267][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.12-18.54.29:269][611]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.04.12-18.54.30:752][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2021.04.12-18.54.38:589][723]Cmd: DELETE
+[2021.04.12-18.54.38:589][723]Cmd: ACTOR DELETE
+[2021.04.12-18.54.38:590][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.54.38:613][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.12-18.54.38:614][723]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.04.12-18.55.42:259][278]Cmd: DELETE
+[2021.04.12-18.55.42:259][278]Cmd: ACTOR DELETE
+[2021.04.12-18.55.42:260][278]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.55.42:283][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.04.12-18.55.42:285][278]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.04.12-18.55.44:278][517]Cmd: TRANSACTION UNDO
+[2021.04.12-18.55.44:278][517]LogEditorTransaction: Undo Excluir Atores
+[2021.04.12-18.55.46:694][756]Cmd: DELETE
+[2021.04.12-18.55.46:694][756]Cmd: ACTOR DELETE
+[2021.04.12-18.55.46:695][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.55.46:722][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.12-18.55.46:723][756]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.04.12-18.55.48:611][982]Cmd: TRANSACTION UNDO
+[2021.04.12-18.55.48:611][982]LogEditorTransaction: Undo Excluir Atores
+[2021.04.12-18.56.02:438][583]Cmd: DELETE
+[2021.04.12-18.56.02:438][583]Cmd: ACTOR DELETE
+[2021.04.12-18.56.02:439][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.56.02:464][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.12-18.56.02:465][583]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2021.04.12-18.56.22:080][901]Cmd: DELETE
+[2021.04.12-18.56.22:080][901]Cmd: ACTOR DELETE
+[2021.04.12-18.56.22:081][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.12-18.56.22:106][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.12-18.56.22:107][901]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.04.12-18.56.23:364][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.56.23:632][ 81]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.12-18.56.26:443][416]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.12-18.56.31:991][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.56.32:837][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.56.33:682][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.56.33:690][227]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.04.12-18.56.41:162][ 92]EditorErrors: New page: Actor attachment
+[2021.04.12-18.56.52:644][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-18.57.20:643][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.12-18.57.20:645][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-18.57.20:656][715]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto5301D2381423806BA9F94B9925A65081C.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto5.umap'
+[2021.04.12-18.57.20:656][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.038
+[2021.04.12-18.57.20:656][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.038
+[2021.04.12-18.57.20:657][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2021.04.12-18.57.20:665][715]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat]
+[2021.04.12-18.57.20:665][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2021.04.12-18.57.20:674][715]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/T_CobbleStone_Pebble_Mat_Auto59998921849F8B43A34C54D8F534B9B75.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto5.uasset'
+[2021.04.12-18.57.20:675][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Bush_Mat] ([1] browsable assets)...
+[2021.04.12-18.57.20:683][715]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Bush_Mat.T_Bush_Mat]
+[2021.04.12-18.57.20:683][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Bush_Mat]
+[2021.04.12-18.57.20:696][715]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/T_Bush_Mat_Auto58F0273D54E2535378B74939590B58764.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Bush_Mat_Auto5.uasset'
+[2021.04.12-18.57.20:697][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_ground_Moss_Mat] ([1] browsable assets)...
+[2021.04.12-18.57.20:705][715]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_ground_Moss_Mat.T_ground_Moss_Mat]
+[2021.04.12-18.57.20:705][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_ground_Moss_Mat]
+[2021.04.12-18.57.20:715][715]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/T_ground_Moss_Mat_Auto5F87D68984ECE4F4145A96186B928B1C4.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_ground_Moss_Mat_Auto5.uasset'
+[2021.04.12-18.57.20:716][715]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.04.12-18.58.28:603][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2021.04.12-18.58.34:346][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2021.04.12-18.58.35:643][673]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-19.07.20:624][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.12-19.07.20:627][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-19.07.20:663][609]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto6D6172A3547EDF7C40EA8458F45D08AFB.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto6.umap'
+[2021.04.12-19.07.20:663][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.064
+[2021.04.12-19.07.20:664][609]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2021.04.12-19.08.35:785][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.04.12-19.11.11:116][235]LogActorFactory: Actor Factory created Plane
+[2021.04.12-19.11.14:114][594]LogActorFactory: Actor Factory created Plane
+[2021.04.12-19.12.02:025][300]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.12-19.12.11:345][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2021.04.12-19.12.15:474][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.04.12-19.16.19:770][175]Cmd: MODE ROTGRID=0
+[2021.04.12-19.17.56:620][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.04.12-19.17.56:624][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.04.12-19.17.56:635][366]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_Auto7AC8184634D57C86F9EBD76B7F84003B4.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Prova_Auto7.umap'
+[2021.04.12-19.17.56:636][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prova' took 0.040
+[2021.04.12-19.17.56:636][366]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2021.04.12-19.24.37:549][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.24.37:573][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.12-19.24.37:588][303]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova343CAAA742DCB8D47AA9C0BE91ED7260.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-19.24.37:595][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-19.24.37:619][303]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltDataA4F732BF4151FDE40BAA3F9B26A2484C.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-19.24.37:631][303]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-19.24.37:631][303]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-19.24.37:631][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-19.24.39:536][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.24.39:559][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.12-19.24.39:570][530]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/ProvaF867E5954EF8CAFE502264AD970A7CCC.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-19.24.39:577][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-19.24.39:583][530]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltDataA34E1E1440BF78C1D324D8B99FB4B4C5.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-19.24.39:594][530]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-19.24.39:594][530]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-19.24.39:595][530]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-19.24.44:044][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.24.44:067][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.12-19.24.44:078][ 61]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/ProvaE87FF7F44ECE4D3A92762BA032C1A437.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-19.24.44:085][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-19.24.44:091][ 61]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltData5859D99B49A5C3E8BCC9279F6B54A09D.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-19.24.44:103][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-19.24.44:103][ 61]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-19.24.44:103][ 61]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-19.27.22:874][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.27.22:897][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.12-19.27.22:911][724]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova42DB2EE64F84737AFB99DC901DC64B00.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-19.27.22:917][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-19.27.22:923][724]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltData399195974938E478A840C4BDE9B07DF8.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-19.27.22:936][724]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-19.27.22:936][724]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-19.27.22:936][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-19.27.27:816][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.27.27:838][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.12-19.27.27:849][305]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova4413E89F40151177CE8BA38530B00FD3.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova.umap'
+[2021.04.12-19.27.27:855][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Prova_BuiltData" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset" SILENT=true
+[2021.04.12-19.27.27:861][305]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/Prova_BuiltData60411E064840B68CD626C89372D9543A.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/Prova_BuiltData.uasset'
+[2021.04.12-19.27.27:872][305]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-19.27.27:872][305]LogContentValidation: Display: Validating World /Game/Prova.Prova
+[2021.04.12-19.27.27:872][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Prova_BuiltData.Prova_BuiltData
+[2021.04.12-19.28.27:842][170]LogSlate: Window 'Salvar Nível Como' being destroyed
+[2021.04.12-19.28.27:867][170]LogAIModule: Creating AISystem for world casa
+[2021.04.12-19.28.27:871][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/casa" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.28.27:898][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.04.12-19.28.27:910][170]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/casa0AB1F516473FD354E831E4954141DE1D.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap'
+[2021.04.12-19.28.27:917][170]LogFileHelpers: Saving map 'casa' took 0.070
+[2021.04.12-19.28.27:918][170]Cmd: MAP LOAD FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.12-19.28.27:944][170]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-19.28.27:944][170]LoadErrors: New page: Carregando mapa: casa.umap
+[2021.04.12-19.28.27:945][170]LogWorld: UWorld::CleanupWorld for Prova, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-19.28.27:945][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-19.28.27:945][170]MapCheck: New page: Verificação de Mapa
+[2021.04.12-19.28.27:945][170]LightingResults: New page: Compilação de Iluminação
+[2021.04.12-19.28.27:969][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.12-19.28.27:996][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.12-19.28.28:019][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.12-19.28.28:021][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.12-19.28.28:046][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.12-19.28.28:055][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.12-19.28.28:055][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.04.12-19.28.28:055][170]LogFileHelpers: Loading map 'casa' took 0.138
+[2021.04.12-19.28.28:059][170]AssetCheck: New page: Asset Save: casa
+[2021.04.12-19.28.28:059][170]LogContentValidation: Display: Validating World /Game/casa.casa
+[2021.04.12-19.28.53:074][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/casa" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.28.53:097][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.12-19.28.53:109][931]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/casa1DBC529447E530AD54517CBFB4D5F77F.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap'
+[2021.04.12-19.28.53:121][931]AssetCheck: New page: Asset Save: casa
+[2021.04.12-19.28.53:121][931]LogContentValidation: Display: Validating World /Game/casa.casa
+[2021.04.12-19.28.57:782][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/casa" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.28.57:806][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.12-19.28.57:817][488]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/casa907C0B5B4D100186294E3FBAAFA2F9CA.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap'
+[2021.04.12-19.28.57:831][488]AssetCheck: New page: Asset Save: casa
+[2021.04.12-19.28.57:831][488]LogContentValidation: Display: Validating World /Game/casa.casa
+[2021.04.12-19.28.58:834][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/casa" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.28.58:856][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.12-19.28.58:867][606]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/casa7BDA95BE4A713F5B1185D6B30C9EC248.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap'
+[2021.04.12-19.28.58:880][606]AssetCheck: New page: Asset Save: casa
+[2021.04.12-19.28.58:880][606]LogContentValidation: Display: Validating World /Game/casa.casa
+[2021.04.12-19.28.59:636][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/casa" FILE="../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.12-19.28.59:658][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.12-19.28.59:669][695]LogSavePackage: Moving '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Saved/casa0C26DD074CBFB899370DEC8F82398F58.tmp' to '../../../../../../Users/profteste/Documents/Unreal Projects/MyProject/Content/casa.umap'
+[2021.04.12-19.28.59:681][695]AssetCheck: New page: Asset Save: casa
+[2021.04.12-19.28.59:681][695]LogContentValidation: Display: Validating World /Game/casa.casa
